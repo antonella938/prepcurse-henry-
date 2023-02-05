@@ -1,2 +1,1 @@
-# prepcurse-henry-
-este es un repositorio de prueba del modulo 2 del prepcurse de henry video 6
+es una prueba 
